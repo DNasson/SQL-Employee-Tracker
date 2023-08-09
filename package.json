@@ -1,6 +1,6 @@
 {
-  "name": "my_package",
-  "description": "",
+  "name": "sql-employee-tracker",
+  "description": "An app that allows the user to view and manage the departments, roles, and employees in a company so that they can organize and their business.",
   "version": "1.0.0",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
