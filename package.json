@@ -1,5 +1,19 @@
 {
+  "name": "my_package",
+  "description": "",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DNasson/SQL-Employee-Tracker"
+  },
+  "keywords": [],
+  "author": "GitHub <DNasson>",
+  "license": "MIT",
   "dependencies": {
+    "console.table": "^0.10.0",
     "inquirer": "^8.2.4",
     "mysql2": "^3.3.1"
   }
